@@ -1,0 +1,5 @@
+input of lex compile
+
+lex progname.l
+cc lex.yy.c
+./a.out
